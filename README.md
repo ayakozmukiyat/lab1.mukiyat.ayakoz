@@ -6,6 +6,13 @@
   <!--Mukiyat Ayakoz.IT1-2016
   original site: https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D0%B3%D0%B0 -->
 
+<style>
+
+   img {
+        float: right;
+       }
+
+</style>
 
 </head>
 
@@ -95,7 +102,7 @@ float: left;
 <dt> 11.    Литература </dt>
 </dl>
 </div>
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Patanjali.jpg/255px-Patanjali.jpg"
  alt="Trulli" width="170" height="238">
 
